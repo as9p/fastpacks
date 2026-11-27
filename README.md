@@ -2,7 +2,7 @@
 
 **The Resource Packs screen opens 155x faster.** With a few hundred packs installed, Forge 1.8.9 froze for 21 s every time it opened; with fastpacks it opens in 0.14 s.
 
-**[Download](https://github.com/as9pa/fastpacks/releases/latest)** (Forge 1.8.9)
+**[Download](https://github.com/as9p/fastpacks/releases/latest)** (Forge 1.8.9)
 
 ## What it does
 
@@ -11,7 +11,7 @@
 - **Culled rows:** rows scrolled out of view are not drawn, with or without OptiFine.
 - **Safe:** vanilla behaviour is otherwise unchanged, and selected packs never disappear.
 
-Search, filter chips and resolution labels now live in the separate [packview](https://github.com/as9pa/packview) mod (formerly packorganizer).
+Search, filter chips and resolution labels now live in the separate [packview](https://github.com/as9p/packview) mod (formerly packorganizer).
 
 Measured in the real game with OptiFine and a few hundred packs:
 
@@ -24,7 +24,7 @@ More benchmarks and how it works are in [docs/details.md](docs/details.md).
 
 ## Install
 
-Download `fastpacks-0.3.0.jar` from [Releases](https://github.com/as9pa/fastpacks/releases) and drop it into `.minecraft/mods` next to Forge 1.8.9. Works with OptiFine 1.8.9 HD U M5 as a mod jar. Remove the jar to go back to vanilla.
+Download `fastpacks-0.3.0.jar` from [Releases](https://github.com/as9p/fastpacks/releases) and drop it into `.minecraft/mods` next to Forge 1.8.9. Works with OptiFine 1.8.9 HD U M5 as a mod jar. Remove the jar to go back to vanilla.
 
 ## Build
 
